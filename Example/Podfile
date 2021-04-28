@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'GYFileLog_Example' do
+  pod 'GYFileLog', :path => '../'
+
+  target 'GYFileLog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
