@@ -1,0 +1,22 @@
+{
+  "name": "GYFileLog",
+  "version": "0.1.0",
+  "summary": "A short description of GYFileLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kenny2006cen/GYFileLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kenny2006cen": "jianglc@idoosmart.com"
+  },
+  "source": {
+    "git": "https://github.com/kenny2006cen/GYFileLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GYFileLog/Classes/**/*"
+}

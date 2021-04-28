@@ -1,0 +1,6 @@
+framework module GYFileLog {
+  umbrella header "GYFileLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

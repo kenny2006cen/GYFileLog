@@ -1,0 +1,6 @@
+framework module Pods_GYFileLog_Example {
+  umbrella header "Pods-GYFileLog_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
